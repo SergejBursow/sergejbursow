@@ -1,1 +1,1 @@
-![Header](https://github.com/SergejBursow/sergejbursow/blob/main/assets/github-header-image%20(2).png)
+![Header](https://github.com/SergejBursow/sergejbursow/blob/main/assets/github-header-image%20(1).png)
