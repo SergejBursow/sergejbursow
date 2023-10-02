@@ -48,7 +48,7 @@
 <br>
 
 - [Код](https://github.com/SergejBursow/sergejbursow/tree/main/My_progress/5.12)
-- [Веб]
+- [Веб](https://sergejbursow.github.io/portfolio/) 
 
 <br>
 <br>
