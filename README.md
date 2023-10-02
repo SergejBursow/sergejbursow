@@ -36,7 +36,7 @@
 
 ## Образование
 
-- [Skillbox] - Тестирование web-приложений (декабрь 2022 - июнь 2023)
+- [Skillbox](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Certificate.png) - Тестирование web-приложений (декабрь 2022 - июнь 2023)
 
 
 <br>
