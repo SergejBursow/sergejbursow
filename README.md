@@ -60,7 +60,7 @@
 
 [Декомпозиция моб.приложения](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png)
 
-[![Чек лист](assets/hranilishche_hhuk7c9ew1sl.ico)](<My_progress/Skillbox_web/Чек лист. Тестирование отображение экрана.xlsx>)
+[![Чек лист](assets/hranilishche_hhuk7c9ew1sl.ico)](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0)
 
 <br>
 
