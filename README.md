@@ -60,6 +60,7 @@
 
 [Декомпозиция моб.приложения](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png)
 
+[![Alt text](assets/travis-svgrepo-com.svg)](dfvdfv)
 
 <br>
 
