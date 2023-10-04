@@ -56,13 +56,13 @@
 <br>
 
 # **Моменты тестирования** 
- [ДСП Товара](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg)
+ [![ДСП Товара](image-3.png)](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg) **ДСП Товара**
 
-[Декомпозиция моб.приложения](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png)
+[]()
 
-[Чек лист](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0)
+[![Декомпозиция моб.приложения](image-3.png)](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png) **Декомпозиция моб.приложения**
 
-[![Alt text](image-3.png)](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0) **Чек лист**
+[![Чек лист](image-3.png)](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0) **Чек лист**
 
 <br>
 
