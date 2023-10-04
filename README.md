@@ -34,6 +34,7 @@
 - Взаимодействие с разработчиками для улучшения качества продукта
 - Груповые созвоны 
 
+
 <br>
 
 ## Образование
@@ -51,6 +52,11 @@
 
 - [Код](https://github.com/SergejBursow/sergejbursow/tree/main/My_progress/5.12)
 - [Веб](https://sergejbursow.github.io/portfolio/) 
+
+<br>
+
+# **Моменты тестирования** 
+[ДСП Товара](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg)
 
 <br>
 
