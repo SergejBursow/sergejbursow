@@ -55,7 +55,7 @@
 
 <br>
 
-# **Моменты тестирования** 
+# **Артефакты** 
  [![ДСП Товара](image-3.png)](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg) **ДСП Товара**
 
 []()
