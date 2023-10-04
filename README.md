@@ -60,7 +60,7 @@
 
 [Декомпозиция моб.приложения](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png)
 
-[![Alt text](assets/travis-svgrepo-com.svg)](dfvdfv)
+[![Чек лист](assets/hranilishche_hhuk7c9ew1sl.ico)](<My_progress/Skillbox_web/Чек лист. Тестирование отображение экрана.xlsx>)
 
 <br>
 
@@ -69,10 +69,11 @@
 <table>
   <tr>
     <td>
-      <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergejBursow&layout=compact&theme=vision-friendly-dark" />
+      <img height="192px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergejBursow&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
+
 
 <br>
 
