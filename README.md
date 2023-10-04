@@ -58,7 +58,7 @@
 # **Моменты тестирования** 
 [ДСП Товара](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg)
 
-[Декомпозицыя моб.приложения](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png)
+[Декомпозиция моб.приложения](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png)
 <br>
 
 ### ⚙️ GitHub статистика:
