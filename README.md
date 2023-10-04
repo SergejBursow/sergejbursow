@@ -62,6 +62,8 @@
 
 [Чек лист](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0)
 
+[![Alt text](image-3.png)](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0) **Чек лист**
+
 <br>
 
 ### ⚙️ GitHub статистика:
