@@ -60,7 +60,7 @@
 
 []()
 
-[![Декомпозиция моб.приложения](image-3.png)](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png) **Декомпозиция моб.приложения**
+[![Декомпозиция моб.приложения](image-3.png)](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png)**Декомпозиция моб.приложения**
 
 [![Чек лист](image-3.png)](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0) **Чек лист**
 
@@ -86,7 +86,8 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/retromot)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=4F7DB3)](mailto:bursik756@gmail.com)
 
+<br>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SergejBursow)
 
 
-<br>
