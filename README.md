@@ -40,7 +40,7 @@
 ## Образование
 
 - [Skillbox](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Certificate.png) - Тестирование web-приложений (декабрь 2022 - июнь 2023.)
-
+- [Stepik](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Stepik/stepik-certificate-120679-80e6c50_page-0001.jpg) -Тестирование ПО: Postman для тестирования API
 
 <br>
 
