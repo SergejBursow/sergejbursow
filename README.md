@@ -16,7 +16,7 @@
 ![postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
 ![charles](https://img.shields.io/badge/-charles-090909?style=for-the-badge&logo=)
 ![devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=grey)
-![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
+<!--![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)-->
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![VSC](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=visualStudioCode&logoColor=blue)
 
