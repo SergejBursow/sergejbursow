@@ -1,94 +1,96 @@
+# Привет, я Сергей Бурсов 👋
+
 ![Header](https://github.com/SergejBursow/sergejbursow/blob/main/assets/github-header-image%20(1).png)
 
+## О себе
 
-> "Тестирование – процесс исследования и контроль качества, который состоит из планирования, проектирования, проверки и анализа ее результатов."
+> "Тестирование – это процесс исследования и контроль качества, который состоит из планирования, проектирования, проверки и анализа результатов."
 
-Привет, я Бурсов Сергей, QA инженер. Каждый день стремлюсь узнать новые техники и способы тестирования, что бы моя работа над продуктом приносила положительные оценки от конечного потребителя.
+Я QA инженер из Санкт-Петербурга. Каждый день стремлюсь узнавать новые техники и способы тестирования, чтобы моя работа над продуктом приносила качественный результат для конечного пользователя.
 
-<br>
+---
 
+## 🛠 Мой стек технологий
 
+### Тестирование API
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black)
 
-## Мои навыки
+### Баг-трекинг
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Github)
-![jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira&logoColor=blue)
-![postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
-![charles](https://img.shields.io/badge/-charles-090909?style=for-the-badge&logo=)
-![devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=grey)
-<!--![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)-->
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![VSC](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=visualStudioCode&logoColor=blue)
+### Инструменты
+![DevTools](https://img.shields.io/badge/DevTools-FF6C37?style=flat-square&logo=googlechrome&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Charles](https://img.shields.io/badge/Charles_Proxy-000000?style=flat-square&logo=charles&logoColor=white)
 
-<br>
+### Базы данных
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-## Опыт работы
+### Дизайн
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### QA инженер - Spirit DSP (с 06.2023 - 24.09.2024)
+### Верстка
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br>
+### Контроль версий
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
-- Тестирование web, десктопного и мобильного приложений для видеконференций - VideoMost.
-- Создание тестовой документации.
-- Создание баг репортов по найденным дефектам в YouTrack.
-- Взаимодействие с разработчиками для улучшения качества продукта.
-- Груповые созвоны. 
- 
-  [![Рекомендательное письмо](icons8-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82-48-5.png)](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Spirit_WideoMost/Рекомендация%20-%20Бурсов.pdf) 
-  **Рекомендательное письмо**  
+---
 
+## 💼 Опыт работы
 
-<br>
+**QA инженер** — Spirit DSP *(июнь 2023 — сентябрь 2024)*
 
-## Образование
+- Тестирование web, десктоп и мобильных версий приложения VideoMost
+- Создание и поддержка тестовой документации
+- Составление баг-репортов в YouTrack
+- Взаимодействие с разработчиками для улучшения качества продукта
 
-- [Skillbox](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Certificate.png) - Тестирование web-приложений (декабрь 2022 - июнь 2023.)
-- [Stepik](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Stepik/stepik-certificate-120679-80e6c50_page-0001.jpg) -Тестирование ПО: Postman для тестирования API
+[📄 Смотреть рекомендательное письмо](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Spirit_WideoMost/Рекомендация%20-%20Бурсов.pdf)
 
-<br>
+---
 
-# **HTML и CSS**
+## 📚 Образование
 
-*Прошел начальные курсы по верстке, для лучшего понимания devtools*
+| Курс | Платформа | Период |
+|------|-----------|--------|
+| [Тестирование web-приложений](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Certificate.png) | Skillbox | Дек 2022 — Июн 2023 |
+| [Postman для тестирования API](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Stepik/stepik-certificate-120679-80e6c50_page-0001.jpg) | Stepik | 2023 |
 
-<br>
+### HTML и CSS
+Прошел начальные курсы по верстке для лучшего понимания DevTools
 
-- [Код](https://github.com/SergejBursow/sergejbursow/tree/main/My_progress/5.12)
+[📁 Код](https://github.com/SergejBursow/sergejbursow/tree/main/My_progress/5.12)
 
-<br>
+---
 
-# **Артефакты** 
- [![ДСП Товара](image-3.png)](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg) **ДСП Товара**
+## 📋 Мои артефакты
 
-[]()
+| Артефакт | Ссылка |
+|----------|--------|
+| 📝 ДСП Товара | [Посмотреть](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg) |
+| 📱 Декомпозиция моб.приложения | [Посмотреть](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png) |
+| ✅ Чек лист | [Посмотреть](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0) |
 
-[![Декомпозиция моб.приложения](image-3.png)](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png)**Декомпозиция моб.приложения**
+---
 
-[![Чек лист](image-3.png)](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0) **Чек лист**
+## 📊 GitHub статистика
 
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SergejBursow&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejBursow&layout=compact&theme=dark)
 
-### ⚙️ GitHub статистика:
+---
 
-<table>
-  <tr>
-    <td>
-      <img height="192px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergejBursow&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+## 📫 Связаться со мной
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sergeo1992)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bursik756@gmail.com)
 
-<br>
+---
 
-
-## Связаться со мной
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sergeo1992)
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=4F7DB3)](mailto:bursik756@gmail.com)
-
-<br>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SergejBursow)
-
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SergejBursow)
