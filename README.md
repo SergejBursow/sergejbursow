@@ -10,11 +10,19 @@
 
 ---
 
-## 🛠 Мой стек технологий
+## 🧪 Мои компетенции
 
-📈 Профессиональное развитие
-![alt text](deepseek_mermaid_20260222_ba1746.svg)
+**🖐️ Ручное тестирование**
+• Функциональное • Регрессионное • UI/UX • Mobile Test
 
+**🌐 API тестирование**
+• Postman • Swagger • REST API
+
+**🛠️ Инструменты**
+• Jira/YouTrack/Битрикс24 • DevTools • Charles/Proxyman • Android Studio
+
+**🤖 Автоматизация**
+• Python • Maestro • Pytest
 ---
 
 ## 💼 Опыт работы
