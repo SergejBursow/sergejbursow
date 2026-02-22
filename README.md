@@ -12,33 +12,8 @@
 
 ## 🛠 Мой стек технологий
 
-### Тестирование API
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black)
-
-### Баг-трекинг
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=jetbrains&logoColor=white)
-
-### Инструменты
-![DevTools](https://img.shields.io/badge/DevTools-FF6C37?style=flat-square&logo=googlechrome&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Charles](https://img.shields.io/badge/Charles_Proxy-000000?style=flat-square&logo=charles&logoColor=white)
-
-### Базы данных
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### Дизайн
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### Верстка
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Контроль версий
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+📈 Профессиональное развитие
+![alt text](deepseek_mermaid_20260222_ba1746.svg)
 
 ---
 
