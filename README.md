@@ -1,9 +1,5 @@
 # Сергей Бурсов | QA Engineer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,25:2563eb,50:7c3aed,75:db2777,100:f59e0b&height=180&section=header&text=QA%20Engineer%20%7C%20Mobile%20%26%20Web&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header">
-</p>
-
 ![Header](https://github.com/SergejBursow/sergejbursow/blob/main/assets/github-header-image%20(1).png)
 
 <p align="center">
