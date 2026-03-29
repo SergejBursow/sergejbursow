@@ -1,5 +1,9 @@
 # Сергей Бурсов | QA Engineer
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,25:2563eb,50:7c3aed,75:db2777,100:f59e0b&height=180&section=header&text=QA%20Engineer%20%7C%20Mobile%20%26%20Web&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header">
+</p>
+
 ![Header](https://github.com/SergejBursow/sergejbursow/blob/main/assets/github-header-image%20(1).png)
 
 <p align="center">
@@ -18,6 +22,16 @@
   <img src="https://img.shields.io/badge/CI-GitHub%20Actions-24292F?style=flat-square" alt="CI">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Mobile+QA+%7C+Web+QA+%7C+Maestro+Automation;UI+Autotests+%7C+API+Testing+%7C+Traffic+Analysis;GitHub+Actions+%7C+Real+Devices+%7C+QA+Artifacts" alt="typing">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SergejBursow&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="trophies">
+</p>
+
+---
+
 ## О себе
 
 Инженер по тестированию с опытом в мобильных и web-приложениях. Основной фокус: `iOS / Android`, `UI`-автоматизация на `Maestro`, анализ сетевого трафика, `API`-проверки и улучшение QA-процессов.
@@ -25,6 +39,10 @@
 Сейчас работаю над мобильным и web-продуктом аптечной сети, где совмещаю ручное тестирование, автоматизацию и развитие внутренней инфраструктуры для прогонов на реальных устройствах.
 
 > Люблю не просто находить баги, а делать так, чтобы команда быстрее выпускала качественный продукт.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:06b6d4&height=3&section=header" alt="divider">
+</p>
 
 ## Быстрый обзор
 
@@ -35,6 +53,17 @@
 | Анализирую трафик в `Proxyman` | Нахожу лишние запросы и backend-проблемы |
 | Проверяю API в `Postman` | Валидирую данные и эндпоинты |
 | Настраиваю `GitHub Actions` | Перевожу проверки в воспроизводимый процесс |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Apps-2563eb?style=for-the-badge" alt="focus mobile">
+  <img src="https://img.shields.io/badge/Focus-Web%20Testing-16a34a?style=for-the-badge" alt="focus web">
+  <img src="https://img.shields.io/badge/Focus-Maestro%20Automation-7c3aed?style=for-the-badge" alt="focus maestro">
+  <img src="https://img.shields.io/badge/Focus-QA%20Processes-f97316?style=for-the-badge" alt="focus process">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:ec4899&height=3&section=header" alt="divider">
+</p>
 
 ## Стек
 
@@ -48,6 +77,10 @@
 - Пересобрал шаблоны баг-репортов, из-за чего баги стали быстрее приниматься в работу
 - На проекте `VideoMost` находил в среднем `20–60` багов за спринт, включая критические сценарии
 - Разработал и поддерживал более `100` тест-кейсов
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:ef4444&height=3&section=header" alt="divider">
+</p>
 
 ## Проекты
 
@@ -80,6 +113,10 @@
 | ДСП товара | [Посмотреть](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg) |
 | Декомпозиция мобильного приложения | [Посмотреть](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png) |
 | Чек-лист | [Посмотреть](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0) |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=3&section=header" alt="divider">
+</p>
 
 ## Опыт
 
@@ -129,6 +166,10 @@
 [Рекомендательное письмо](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Spirit_WideoMost/Рекомендация%20-%20Бурсов.pdf)
 </details>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:84cc16&height=3&section=header" alt="divider">
+</p>
+
 ## Образование
 
 | Год | Программа | Площадка |
@@ -146,6 +187,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejBursow&layout=compact&theme=dark)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,25:2563eb,50:7c3aed,75:db2777,100:f59e0b&height=120&section=footer" alt="footer">
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SergejBursow" alt="Visitor Count">
