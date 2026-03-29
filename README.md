@@ -180,14 +180,13 @@
 | 2023 | [Инженер по тестированию ПО](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Certificate.png) | Skillbox |
 | 2023 | [Postman для тестирования API](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Stepik/stepik-certificate-120679-80e6c50_page-0001.jpg) | Stepik |
 
-Дополнительно изучал `HTML` и `CSS`, чтобы лучше понимать поведение интерфейсов и эффективнее работать с `DevTools`.
-
-[Посмотреть практику по HTML/CSS](https://github.com/SergejBursow/sergejbursow/tree/main/My_progress/5.12)
-
 ## GitHub статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SergejBursow&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejBursow&layout=compact&theme=dark)
+<p align="center">
+  <a href="https://github.com/SergejBursow?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://github.com/SergejBursow?tab=stars"><img src="https://img.shields.io/badge/GitHub-Projects-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+  <a href="https://github.com/SergejBursow"><img src="https://img.shields.io/badge/Profile-Open-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Profile"></a>
+</p>
 
 ---
 
