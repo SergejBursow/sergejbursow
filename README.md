@@ -27,7 +27,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SergejBursow&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="trophies">
+  <img src="https://img.shields.io/badge/QA-Mobile%20%7C%20Web-0ea5e9?style=for-the-badge" alt="qa">
+  <img src="https://img.shields.io/badge/Maestro-UI%20Autotests-7c3aed?style=for-the-badge" alt="maestro">
+  <img src="https://img.shields.io/badge/CI-GitHub%20Actions-24292f?style=for-the-badge" alt="ci">
+  <img src="https://img.shields.io/badge/API-Postman%20%7C%20Swagger-f59e0b?style=for-the-badge" alt="api">
 </p>
 
 ---
