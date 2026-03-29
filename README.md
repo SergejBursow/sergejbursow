@@ -1,78 +1,104 @@
-# Привет, я Сергей Бурсов 👋
+# Привет, я Сергей Бурсов
 
 ![Header](https://github.com/SergejBursow/sergejbursow/blob/main/assets/github-header-image%20(1).png)
 
-## О себе
+## QA Engineer | Mobile & Web
 
-> "Тестирование – это процесс исследования и контроль качества, который состоит из планирования, проектирования, проверки и анализа результатов."
+Я инженер по тестированию ПО с опытом в мобильных и web-продуктах. Сейчас работаю над приложением аптечной сети, где тестирую iOS/Android и web, участвую в релизах, улучшаю процессы команды и развиваю мобильную UI-автоматизацию на `Maestro`.
 
-Я QA инженер из Санкт-Петербурга. Каждый день стремлюсь узнавать новые техники и способы тестирования, чтобы моя работа над продуктом приносила качественный результат для конечного пользователя.
+Живу в Москве, открыт к интересным продуктовым задачам, сильным командам и проектам, где качество влияет на реальный пользовательский опыт.
 
----
+## Чем я полезен команде
 
-## 🧪 Мои компетенции
+- Провожу функциональное, регрессионное, исследовательское и smoke-тестирование
+- Тестирую мобильные приложения `iOS / Android`, web и backend-интеграции
+- Проверяю API через `Postman`, `Swagger` и анализирую запросы в сетевых снифферах
+- Составляю понятную тестовую документацию и баг-репорты
+- Участвую в улучшении процессов релиза и качества внутри команды
+- Пишу мобильные UI-автотесты на `Maestro`
 
-**🖐️ Ручное тестирование**
-• Функциональное • Регрессионное • UI/UX • Mobile Test
+## Стек и инструменты
 
-**🌐 API тестирование**
-• Postman • Swagger • REST API
+`Manual Testing` `Mobile Testing` `Web Testing` `API Testing` `Regression` `Smoke` `Exploratory Testing` `DevTools` `Postman` `Swagger` `Charles` `Proxyman` `Android Studio` `Jira` `YouTrack` `Bitrix24` `Maestro` `Python` `Pytest` `Git` `GitHub`
 
-**🛠️ Инструменты**
-• Jira/YouTrack/Битрикс24 • DevTools • Charles/Proxyman • Android Studio
+## Опыт
 
-**🤖 Автоматизация**
-• Python • Maestro • Pytest
----
+### Инженер по тестированию ПО | ООО "Цифровые Сервисы"
+`сентябрь 2024 — настоящее время`
 
-## 💼 Опыт работы
+Проект: мобильное и web-приложение сети аптек "Столички"
 
-**QA инженер** — Spirit DSP *(июнь 2023 — сентябрь 2024)*
+- Тестирую мобильное приложение на `iOS` и `Android`: функционально, регрессионно и исследовательски
+- Параллельно участвую в проверке web-версии и внутренних систем
+- Помог улучшить pre-release процесс: снизилось количество возвратов от разработчиков, баги начали быстрее приниматься в работу
+- Привел в порядок Kanban-доску, упростив навигацию по задачам и багам
+- Внедрил `UI`-автотесты на `Maestro`
+- Покрыл автотестами пользовательские сценарии `smoke + regression`
+- Настроил запуск тестов на реальном устройстве и собрал базовую мобильную форму отчетности
+- Ускорил регрессию за счет частичной автоматизации
+- Активно работаю с сетевым трафиком в `Proxyman` и анализом backend-запросов
 
-- Тестирование web, десктоп и мобильных версий приложения VideoMost
-- Создание и поддержка тестовой документации
-- Составление баг-репортов в YouTrack
-- Взаимодействие с разработчиками для улучшения качества продукта
+### QA Engineer | Spirit DSP
+`июнь 2023 — сентябрь 2024`
 
-[📄 Смотреть рекомендательное письмо](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Spirit_WideoMost/Рекомендация%20-%20Бурсов.pdf)
+- Тестировал web, десктоп и мобильные версии `VideoMost`
+- Создавал и поддерживал тестовую документацию
+- Заводил и сопровождал баг-репорты в `YouTrack`
+- Взаимодействовал с разработчиками и командой для повышения качества продукта
 
----
+[Рекомендательное письмо](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Spirit_WideoMost/Рекомендация%20-%20Бурсов.pdf)
 
-## 📚 Образование
+## Образование и развитие
 
 | Курс | Платформа | Период |
 |------|-----------|--------|
-| [Тестирование web-приложений](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Certificate.png) | Skillbox | Дек 2022 — Июн 2023 |
+| [Тестирование web-приложений](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Certificate.png) | Skillbox | декабрь 2022 — июнь 2023 |
 | [Postman для тестирования API](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Stepik/stepik-certificate-120679-80e6c50_page-0001.jpg) | Stepik | 2023 |
 
-### HTML и CSS
-Прошел начальные курсы по верстке для лучшего понимания DevTools
+Дополнительно изучал `HTML` и `CSS`, чтобы лучше понимать верстку, поведение интерфейсов и эффективнее работать с `DevTools`.
 
-[📁 Код](https://github.com/SergejBursow/sergejbursow/tree/main/My_progress/5.12)
+[Практика по HTML/CSS](https://github.com/SergejBursow/sergejbursow/tree/main/My_progress/5.12)
 
----
-
-## 📋 Мои артефакты
+## Артефакты
 
 | Артефакт | Ссылка |
 |----------|--------|
-| 📝 ДСП Товара | [Посмотреть](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg) |
-| 📱 Декомпозиция моб.приложения | [Посмотреть](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png) |
-| ✅ Чек лист | [Посмотреть](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0) |
+| ДСП товара | [Посмотреть](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/ДСП.jpg) |
+| Декомпозиция мобильного приложения | [Посмотреть](https://github.com/SergejBursow/sergejbursow/blob/main/My_progress/Skillbox_web/Декомпозицыя%20моб.приложения.png) |
+| Чек-лист | [Посмотреть](https://docs.google.com/spreadsheets/d/1FDOgFy80_GCHsP-IBFw_iR5iXHoxVSKEYJMcj4Jlj8w/edit#gid=0) |
 
----
+## Проекты
 
-## 📊 GitHub статистика
+### Mobile UI Automation | Maestro
+
+На GitHub у меня есть два отдельных проекта, где я настраиваю мобильные `UI`-автотесты на `Maestro`. В них я практикую:
+
+- построение стабильных `flow`-сценариев для мобильных приложений
+- покрытие пользовательских путей формата `smoke` и `regression`
+- запуск тестов на реальных устройствах и подготовку тестовой инфраструктуры
+- работу с мобильной автоматизацией как частью QA-процесса
+
+[Смотреть мои репозитории на GitHub](https://github.com/SergejBursow?tab=repositories)
+
+### Portfolio Website
+
+Также в профиле есть мой проект сайта-визитки, где я собрал персональное портфолио QA-инженера с описанием опыта, навыков, артефактов и контактов.
+
+- стек: `HTML` `CSS` `JavaScript`
+- цель проекта: представить мой профессиональный профиль в виде отдельного web-сайта
+
+[Открыть сайт-визитку в репозитории](https://github.com/SergejBursow/sergejbursow/tree/main/portfolio-site)
+
+## GitHub статистика
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SergejBursow&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejBursow&layout=compact&theme=dark)
 
----
-
-## 📫 Связаться со мной
+## Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sergeo1992)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bursik756@gmail.com)
+[![Setka](https://img.shields.io/badge/Setka-111111?style=for-the-badge&logoColor=white)](https://set.ki/yfTF8S4)
 
 ---
 
